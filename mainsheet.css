@@ -1,0 +1,58 @@
+body {
+  width:900px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0px;
+  font-family:"Helvetica",sans-serif;
+}
+
+a:link {
+  text-decoration:none;
+  color:#000;
+}
+
+a:visited { 
+  color:#000;
+}
+
+
+.divblock {
+  margin:1%;
+  border: 1px solid #06266f;
+  padding:1%;
+  text-align:left;
+}
+
+.fullwidth {
+  width:96%;
+}
+
+.halfblockleft {
+  width:45%;
+  float:left;
+  height:300px;
+}
+
+.halfblockright {
+  width:45%;
+  float:right;
+  height:300px;
+}
+
+#header {
+  text-align:right;
+}
+
+#logo {
+  color:#06266f;
+  float:left;
+  text-decoration:none;
+}
+
+#login a {
+  text-decoration:none;
+}
+
+#searchbar {
+  display:inline;
+}
