@@ -4,6 +4,7 @@ body {
   margin-right:auto;
   padding:0px;
   font-family:"Helvetica",sans-serif;
+  background-color:#1240ab;
 }
 
 a:link {
@@ -21,6 +22,7 @@ a:visited {
   border: 1px solid #06266f;
   padding:1%;
   text-align:left;
+  background-color:#6c8cd5;
 }
 
 .fullwidth {
@@ -47,6 +49,11 @@ a:visited {
   color:#06266f;
   float:left;
   text-decoration:none;
+  font-size:2em;
+}
+
+#notice {
+  margin-right:140px;
 }
 
 #login a {
