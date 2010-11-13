@@ -1,10 +1,13 @@
 body {
+  font-family:"Helvetica",sans-serif;
+  background-color:#1240ab;
+}
+
+#content {
   width:900px;
   margin-left:auto;
   margin-right:auto;
   padding:0px;
-  font-family:"Helvetica",sans-serif;
-  background-color:#1240ab;
 }
 
 a:link {
@@ -43,6 +46,11 @@ a:visited {
 
 #header {
   text-align:right;
+  position:fixed;
+  left:0px;
+  top:0px;
+  width:96%;
+  height:40px;
 }
 
 #logo {
