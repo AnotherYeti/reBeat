@@ -25,10 +25,11 @@ a:visited {
 
 .divblock {
   margin:1%;
-  border: 1px solid #06266f;
+  border: 2px solid #06266f;
   padding:1%;
   text-align:left;
   background-color:#6c8cd5;
+  border-radius:10px;
 }
 
 .fullwidth {
@@ -70,6 +71,10 @@ a:visited {
 
 #login a {
   text-decoration:none;
+}
+
+#loginform a {
+  border:1px solid black;
 }
 
 #searchbar {
